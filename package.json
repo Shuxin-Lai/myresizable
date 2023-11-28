@@ -1,8 +1,8 @@
 {
   "bin": {
-    "myresize": "./index.js"
+    "myresizable": "./index.js"
   },
-  "name": "myresize",
+  "name": "myresizable",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

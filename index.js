@@ -84,7 +84,7 @@ async function resizeSingle(
   })
   await sharped.toFile(targetFile)
   console.log(
-    `resize ${imagePath} to ${targetFile} (width=${width}, height=${height})`
+    `resize ${imagePath} --> ${targetFile} (width=${width}, height=${height})`
   )
 }
 
